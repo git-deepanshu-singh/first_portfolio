@@ -36,4 +36,4 @@ The site is designed to deliver an engaging user experience through **scroll ani
 
 ## 📸 Preview
 
-![Portfolio Preview](./preview.png)  
+![Portfolio Preview](https://git-deepanshu-singh.github.io/first_portfolio/)  
